@@ -131,7 +131,8 @@ height: 400vh;
 
 
     #header{
-    height: 100vh;
+    height:60vh;
+    margin-bottom: 130px;
     
 }
 #main{
@@ -139,7 +140,7 @@ height: 400vh;
     height: 180vh;
 }
 #footer{
-    height:35vh;
+    height:50vh;
 }
 .parrafos2 {
     display: flex;
@@ -156,7 +157,7 @@ height: 400vh;
     margin-top: 5px;
 }
 #logo {
-    height: 50%;
+    height: 200px;
     width: 100%;
     display: flex;
     border: 10px solid orange;
