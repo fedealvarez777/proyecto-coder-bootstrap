@@ -131,7 +131,7 @@ height: 400vh;
 
 
     #header{
-    height: 50vh;
+    height: 100vh;
     
 }
 #main{
@@ -156,10 +156,14 @@ height: 400vh;
     margin-top: 5px;
 }
 #logo {
-    height: 65%;
+    height: 50%;
     width: 100%;
     display: flex;
     border: 10px solid orange;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    justify-items: baseline;
 }
 }
 
