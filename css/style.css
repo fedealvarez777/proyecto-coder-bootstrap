@@ -8,13 +8,13 @@ body {
     height: 20vh;
 }
 
-#nav{
+/* #nav{
     display: flex;
     justify-content: center;
     align-items: center;
     justify-items: center;
     align-content: center;
-}
+} */
 
 #logo {
     height: 80%;
@@ -131,8 +131,8 @@ height: 400vh;
 
 
     #header{
-    height:60vh;
-    margin-bottom: 130px;
+    height:30vh;
+    margin-bottom: 50px;
     
 }
 #main{
@@ -141,6 +141,7 @@ height: 400vh;
 }
 #footer{
     height:50vh;
+    width: 100%;
 }
 .parrafos2 {
     display: flex;
