@@ -215,7 +215,27 @@ body {
     }
 }
 
-
+#carr1{
+    margin-left: 30%;
+}
+#carr2{
+    margin-left: 30%;
+}
+#carr3{
+    margin-left: 30%;
+}
+#carr4{
+    margin-left: 10%;
+}
+#carr5{
+    margin-left: 30%;
+}
+#botonatras{
+    background-color: black;
+}
+#botonadelante{
+    background-color: black;
+}
 /* // `sm` applies to x-small devices (portrait phones, less than 576px) */
 @media (max-width: 575.98px) {
 body{
@@ -257,6 +277,11 @@ flex-wrap: wrap;
     height: 50%;
     margin-top: 5px;
 }
+
+.mapa{
+    width: 450px;
+    height: 450px;
+}
 #logo {
     height: 200px;
     width: 100%;
@@ -267,6 +292,27 @@ flex-wrap: wrap;
     align-content: center;
     justify-items: baseline;
 }
+
+#carr1{
+    margin-left: 20%;
+}
+#carr2{
+    margin-left: 10%;
+}
+#carr3{
+    margin-left: 10%;
+}
+#carr4{
+    margin-left: 10%;
+}
+#carr5{
+    margin-left: 20%;
+}
+
+
+
+
+
 }
 
 /* // `md` applies to small devices (landscape phones, less than 768px) */
