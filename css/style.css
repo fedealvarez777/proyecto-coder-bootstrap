@@ -219,7 +219,7 @@ body {
 /* // `sm` applies to x-small devices (portrait phones, less than 576px) */
 @media (max-width: 575.98px) {
 body{
-height: 500vh;
+height: 350vh;
 }
 
 
@@ -235,6 +235,13 @@ height: 500vh;
 #footer{
     height:60vh;
     width: 100%;
+}
+
+.container{
+    width: 100%;
+    display: flex;
+    max-width: 1100px;
+flex-wrap: wrap;
 }
 .parrafos2 {
     display: flex;
